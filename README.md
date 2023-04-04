@@ -7,6 +7,7 @@ git add README.md
 git commit
 git commit -m "add(repo): initial commit"
 git branch first_branch
+git push origin first_branch
 git status
 git add README.md
 git status
